@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="user">Profile</string>
+    <string name="meal_plan">Meal Plan</string>
+    <string name="share">Share</string>
+</resources>
